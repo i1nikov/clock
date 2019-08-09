@@ -1,0 +1,11 @@
+#cont{
+  margin: 0 auto;
+  width:280px;
+  height: 70px;
+  background: black;
+  font-size: 60px;
+  color:red;
+  text-align: center;
+  cursor:pointer;
+  
+}
